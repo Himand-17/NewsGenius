@@ -1,7 +1,6 @@
-pyaudio
+streamlit
 gTTS
 SpeechRecognition
-pyaudio
 langchain
 langchain-google-genai
 google-generativeai

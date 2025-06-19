@@ -163,7 +163,7 @@ if "summary" not in st.session_state:
 if "topic_from_voice" not in st.session_state:
     st.session_state.topic_from_voice = ""
 
-IMAGE_PATH = "c:\\Users\\HIMAND\\Downloads\\ChatGPT Image May 2, 2025, 05_26_14 PM.png"
+IMAGE_PATH = "img.png"
 
 
 # Function to display app header image
